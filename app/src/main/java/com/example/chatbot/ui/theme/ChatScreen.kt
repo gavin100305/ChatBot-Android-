@@ -142,7 +142,7 @@ Row(
             .wrapContentSize())
             {
             Text(text = messageList.message,
-                fontWeight = FontWeight.Bold,
+                fontWeight = FontWeight.SemiBold,
                 fontSize = 20.sp,
                 color = Color.Black,
                 )
